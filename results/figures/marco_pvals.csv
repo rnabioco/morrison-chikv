@@ -1,0 +1,4 @@
+Cell type 1,n cells 1,frac cells 1,Median 1,Cell type 2,Median 2,method,alternative,statistic,estimate,conf.low,conf.high,p.value,p_adj
+CHIKV-high,231,0.11743772241992882,0,CHIKV-low,0,Wilcoxon rank sum test with continuity correction,two.sided,90085.5,6.339053343712715e-6,4.50101495363283e-5,2.1803769016368063e-5,8.523077714323614e-31,2.5569233142970843e-30
+CHIKV-high,231,0.11743772241992882,0,mock,0,Wilcoxon rank sum test with continuity correction,two.sided,126243,-2.5905248281907e-5,-4.6112780699105143e-5,5.008570762259995e-5,0.12626981304295778,0.3788094391288733
+CHIKV-low,576,0.29283172343670566,0,mock,0,Wilcoxon rank sum test with continuity correction,two.sided,211043.5,-2.1156068657215898e-5,-6.038527354470785e-5,-4.763471959842071e-5,3.7388340760441834e-51,1.121650222813255e-50
